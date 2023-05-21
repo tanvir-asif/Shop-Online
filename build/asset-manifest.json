@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e65880fd.css",
+    "main.js": "/static/js/main.73373a74.js",
+    "static/js/787.f055211e.chunk.js": "/static/js/787.f055211e.chunk.js",
+    "static/media/hero-img.jpg": "/static/media/hero-img.4ba398c65462f4419b8f.jpg",
+    "static/media/error.webp": "/static/media/error.741f92a83f49e360105e.webp",
+    "static/media/handshake.png": "/static/media/handshake.cf32b5986d9109fd4120.png",
+    "static/media/bashundhara-group-vector-logo.svg": "/static/media/bashundhara-group-vector-logo.811275e4f7b86d81731636f169924d37.svg",
+    "static/media/delivery.png": "/static/media/delivery.b4aaa8c3cd7a1c422468.png",
+    "static/media/beximco-seeklogo.com.svg": "/static/media/beximco-seeklogo.com.ffef310c6aaa0023d906dcf5ec09ec4e.svg",
+    "static/media/box.png": "/static/media/box.2ce7a7721e2e4d1c9ba4.png",
+    "index.html": "/index.html",
+    "main.e65880fd.css.map": "/static/css/main.e65880fd.css.map",
+    "main.73373a74.js.map": "/static/js/main.73373a74.js.map",
+    "787.f055211e.chunk.js.map": "/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e65880fd.css",
+    "static/js/main.73373a74.js"
+  ]
+}
